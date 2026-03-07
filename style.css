@@ -301,7 +301,6 @@ button {
   color: #FFBABA;
   font-weight: 400;
   background-color: #6b0d10;
-  padding: 10px;
   border-radius: 10px;
   width: 150px;
   height: 40px;
@@ -324,4 +323,6 @@ button {
   background-color: #350002;
   padding: 10px;
   border-radius: 10px;
+  font-size: 11px;
+  width: 115px;
 }
